@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hirwa_2" target="blank"><img src="https://img.shields.io/twitter/follow/hirwa_2?logo=twitter&style=for-the-badge" alt="hirwa_2" /></a> </p>
 
-- 🔭 I’m currently working on [BYOSE](https://github.com/FutureMarkRwanda)
+- 🔭 I’m currently working on [BYOSE](https://byose.info)
 
 - 🌱 I’m currently learning **ML and Intelligent Robotics**
 
@@ -13,11 +13,13 @@
 
 - 🤝 I’m looking for help with [BYOSE](https://github.com/FutureMarkRwanda)
 
-- 👨‍💻 All of my projects are available at [https://hirwa.vercel.app/](https://hirwa.vercel.app/)
+- 👨‍💻 All of my projects are available at [hirwa](https://hirwa.byose.info)
 
 - 📝 I regularly write articles on [https://dev.to/hirwa](https://dev.to/hirwa)
 
 - 💬 Ask me about **AI and Embedded Systems**
+  
+- 📫 How to reach me **gakundohope5@gmail.com**
 
 - 📫 How to reach me **hopehirwa50@gmail.com**
 
