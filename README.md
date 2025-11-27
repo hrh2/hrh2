@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/hirwa_2" target="blank"><img src="https://img.shields.io/twitter/follow/hirwa_2?logo=twitter&style=for-the-badge" alt="hirwa_2" /></a> </p>
 
-- 🔭 I’m currently working on [BYOSE](https://byose.info)
+- 🔭 I’m currently working on [BYOSE Tech](https://byose.info)
 
-- 🌱 I’m currently learning **ML and Intelligent Robotics**
+- 🌱 I’m currently learning **ML ,Intelligent Robotics and Business Management**
 
-- 👯 I’m looking to collaborate on [BYOSE](https://github.com/FutureMarkRwanda)
-
-- 🤝 I’m looking for help with [BYOSE](https://github.com/FutureMarkRwanda)
+- 👯 I’m looking to collaborate on [BYOSE TV](https://movies.byose.info) , [BYOSE Academy](https://academy.byose.info) and [PresenceEye](https://byose.info/presence-eye)
 
 - 👨‍💻 All of my projects are available at [hirwa](https://hirwa.byose.info)
 
 - 📝 I regularly write articles on [https://dev.to/hirwa](https://dev.to/hirwa)
 
-- 💬 Ask me about **AI and Embedded Systems**
+- 💬 Ask me about **BYOSE Tech ,AI and Embedded Systems**
   
 - 📫 How to reach me **gakundohope5@gmail.com**
 
