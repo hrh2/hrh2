@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm HIRWA Rukundo Hope</h1>
+<h1 align="left">Hi 👋, I'm Hope HIRWA RUKUNDO</h1>
 <h3 align="left">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://res.cloudinary.com/ddsojj7zo/image/upload/v1777066812/hopegray2_c7p07g.jpg" alt="hrh2" style="width:200px;height:200px;border-radius:50px;object-fit:cover;" /></a> </p>
