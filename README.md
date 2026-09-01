@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HIRWA Rukundo Hope</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrh2" alt="hrh2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://res.cloudinary.com/ddsojj7zo/image/upload/v1777066812/hopegray2_c7p07g.jpg" alt="hrh2" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hirwa_2" target="blank"><img src="https://img.shields.io/twitter/follow/hirwa_2?logo=twitter&style=for-the-badge" alt="hirwa_2" /></a> </p>
 
