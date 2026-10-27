@@ -1,5 +1,5 @@
 <h1 align="left">Hope HIRWA RUKUNDO</h1>
-<h3 align="left">Software Engineer</h3>
+<h3 align="left">Software Engineer | Full-Stack Developer</h3>
 
 <p align="left">
   <a href="https://github.com/hrh2" target="_blank">
@@ -13,26 +13,34 @@
   </a>
 </p>
 
-I build digital products and systems at the intersection of software, AI, robotics, and embedded technologies.
+I’m a software engineer focused on building modern web applications, intelligent products, and data-driven experiences.
+My recent work includes full-stack app development, AI-enabled projects, dashboards, and practical systems around sustainability and real-world problem solving.
 
-- 🔭 Currently working on <a href="https://byose.info" target="_blank">BYOSE Tech</a>
-- 🌱 Learning <strong>Machine Learning, Intelligent Robotics, and Business Management</strong>
-- 🤝 Open to collaborations on <a href="https://movies.byose.info" target="_blank">BYOSE TV</a>, <a href="https://academy.byose.info" target="_blank">BYOSE Academy</a>, and <a href="https://byose.info/presence-eye" target="_blank">PresenceEye</a>
-- 👨‍💻 Portfolio: <a href="https://hirwa.byose.info" target="_blank">hirwa.byose.info</a>
-- 📝 Writing: <a href="https://dev.to/hirwa" target="_blank">dev.to/hirwa</a>
-- 💬 Interested in <strong>AI, Embedded Systems, and Product Engineering</strong>
-- 📫 Contact: <strong>gakundohope5@gmail.com</strong>
+- 🔭 Currently building and learning through projects in web development, AI, and product engineering
+- 🌱 Exploring <strong>Full-Stack Development, Machine Learning, Data Visualization, and AI Products</strong>
+- 🤝 Interested in projects involving <strong>AI, data systems, web apps, and impactful user-facing technology</strong>
+- 👨‍💻 Public work includes:
+  - <a href="https://github.com/hrh2/Amalitech-javascript-fullstack-labs" target="_blank">Amalitech JavaScript Fullstack Labs</a>
+  - <a href="https://github.com/hrh2/water-quality-monitor" target="_blank">Water Quality Monitor</a>
+  - <a href="https://github.com/hrh2/data-pulse" target="_blank">Data Pulse</a>
+  - <a href="https://github.com/hrh2/cryptavita_ai" target="_blank">Cryptavita AI</a>
+- 📝 Writing and learning in public through projects and technical exploration
+- 💬 Open to collaborations in <strong>software engineering, AI products, and full-stack development</strong>
+- 📫 Reach me at <strong>gakundohope5@gmail.com</strong>
 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="32" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="32" height="32" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" />
 </p>
 
 ### Connect
