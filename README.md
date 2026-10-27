@@ -20,7 +20,6 @@ I’m a software engineer focused on building modern digital products, scalable 
 - 🤝 Interested in collaborations around <strong>AI, web applications, data systems, and impactful technology</strong>
 - 📝 Learning and sharing work through projects, experimentation, and technical exploration
 - 💬 Open to discussions on <strong>software engineering, AI products, and full-stack development</strong>
-- 📫 Reach me at <strong>gakundohope5@gmail.com</strong>
 
 ### Tech Stack
 
