@@ -13,19 +13,18 @@
   </a>
 </p>
 
-I’m a software engineer focused on building modern web applications, intelligent products, and data-driven experiences.
-My recent work includes full-stack app development, AI-enabled projects, dashboards, and practical systems around sustainability and real-world problem solving.
+I’m a software engineer focused on building modern web applications, AI-powered products, and practical digital solutions. My recent work spans full-stack development, product engineering, and data-driven experiences with a strong emphasis on usability and real-world impact.
 
-- 🔭 Currently building and learning through projects in web development, AI, and product engineering
-- 🌱 Exploring <strong>Full-Stack Development, Machine Learning, Data Visualization, and AI Products</strong>
-- 🤝 Interested in projects involving <strong>AI, data systems, web apps, and impactful user-facing technology</strong>
-- 👨‍💻 Public work includes:
+- 🔭 Currently building and learning through projects in software engineering, AI, and product development
+- 🌱 Exploring <strong>Full-Stack Development, Machine Learning, Data Visualization, and AI products</strong>
+- 🤝 Interested in collaborations around <strong>AI, web applications, data systems, and impactful technology</strong>
+- 👨‍💻 Featured projects:
   - <a href="https://github.com/hrh2/Amalitech-javascript-fullstack-labs" target="_blank">Amalitech JavaScript Fullstack Labs</a>
   - <a href="https://github.com/hrh2/water-quality-monitor" target="_blank">Water Quality Monitor</a>
   - <a href="https://github.com/hrh2/data-pulse" target="_blank">Data Pulse</a>
   - <a href="https://github.com/hrh2/cryptavita_ai" target="_blank">Cryptavita AI</a>
-- 📝 Writing and learning in public through projects and technical exploration
-- 💬 Open to collaborations in <strong>software engineering, AI products, and full-stack development</strong>
+- 📝 Learning and documenting work through projects and technical exploration
+- 💬 Open to discussions on <strong>software engineering, AI products, and full-stack development</strong>
 - 📫 Reach me at <strong>gakundohope5@gmail.com</strong>
 
 ### Tech Stack
