@@ -13,17 +13,12 @@
   </a>
 </p>
 
-I’m a software engineer focused on building modern web applications, AI-powered products, and practical digital solutions. My recent work spans full-stack development, product engineering, and data-driven experiences with a strong emphasis on usability and real-world impact.
+I’m a software engineer focused on building modern digital products, scalable web experiences, and practical solutions that blend technology with real-world impact.
 
-- 🔭 Currently building and learning through projects in software engineering, AI, and product development
-- 🌱 Exploring <strong>Full-Stack Development, Machine Learning, Data Visualization, and AI products</strong>
+- 🔭 Currently building and learning through software engineering, AI, and product development
+- 🌱 Exploring <strong>Full-Stack Development, Machine Learning, Data Visualization, and AI Products</strong>
 - 🤝 Interested in collaborations around <strong>AI, web applications, data systems, and impactful technology</strong>
-- 👨‍💻 Featured projects:
-  - <a href="https://github.com/hrh2/Amalitech-javascript-fullstack-labs" target="_blank">Amalitech JavaScript Fullstack Labs</a>
-  - <a href="https://github.com/hrh2/water-quality-monitor" target="_blank">Water Quality Monitor</a>
-  - <a href="https://github.com/hrh2/data-pulse" target="_blank">Data Pulse</a>
-  - <a href="https://github.com/hrh2/cryptavita_ai" target="_blank">Cryptavita AI</a>
-- 📝 Learning and documenting work through projects and technical exploration
+- 📝 Learning and sharing work through projects, experimentation, and technical exploration
 - 💬 Open to discussions on <strong>software engineering, AI products, and full-stack development</strong>
 - 📫 Reach me at <strong>gakundohope5@gmail.com</strong>
 
